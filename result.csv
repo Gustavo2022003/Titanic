@@ -1,9 +1,0 @@
-Sex_post_model,Survived_post_model,Count_post_model,Sex,Survived,Count
-Homem,Morreu,508.0,,,
-Homem,Sobreviveu,65.0,,,
-Mulher,Morreu,71.0,,,
-Mulher,Sobreviveu,243.0,,,
-,,,Mulher,Morreu,81.0
-,,,Mulher,Sobreviveu,233.0
-,,,Homem,Morreu,464.0
-,,,Homem,Sobreviveu,109.0
